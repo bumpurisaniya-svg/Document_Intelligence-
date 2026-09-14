@@ -1,0 +1,7 @@
+Project: AI Document Intelligence
+
+Problem Statement:
+Organizations spend time reviewing large documents.
+
+Solution Statement:
+Summarize, classify and extract important information from documents.
